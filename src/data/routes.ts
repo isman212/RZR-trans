@@ -18,9 +18,9 @@ export interface TravelRoute {
   notes: string;
 }
 
-export const WHATSAPP_NUMBER = '6285331366699';
-export const DISPLAY_PHONE = '0853-3136-6699';
-export const RAW_PHONE = '085331366699';
+export const WHATSAPP_NUMBER = '6285331399699';
+export const DISPLAY_PHONE = '0853-3139-9699';
+export const RAW_PHONE = '085331399699';
 
 export const TRAVEL_ROUTES: TravelRoute[] = [
   {
