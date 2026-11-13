@@ -1,0 +1,6 @@
+{
+  "name": "RZR trans",
+  "description": "Layanan travel perjalanan door-to-door rute Banyuwangi, Bali (Denpasar), Surabaya, Malang, dan Jember dengan pemesanan langsung via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
