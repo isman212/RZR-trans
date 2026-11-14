@@ -13,7 +13,7 @@ const STEPS = [
     step: 'Langkah 02',
     title: 'Kirim Lokasi via WhatsApp',
     detail:
-      'Tekan tombol Pesan WhatsApp atau isi formulir pemesanan cepat. Tim admin kami di nomor 0853-3136-6699 segera mengonfirmasi kursi.',
+      'Tekan tombol Pesan WhatsApp atau isi formulir pemesanan cepat. Tim admin kami di nomor 0853-3139-9699 segera mengonfirmasi kursi.',
   },
   {
     step: 'Langkah 03',
@@ -37,7 +37,7 @@ const FAQS = [
   {
     question: 'Bagaimana cara pembayaran tiket travel?',
     answer:
-      'Anda dapat memesan kursi terlebih dahulu melalui WhatsApp 085331366699 tanpa proses rumit. Pembayaran bisa dilakukan via transfer bank atau tunai kepada driver saat penjemputan.',
+      'Anda dapat memesan kursi terlebih dahulu melalui WhatsApp 085331399699 tanpa proses rumit. Pembayaran bisa dilakukan via transfer bank atau tunai kepada driver saat penjemputan.',
   },
   {
     question: 'Berapa maksimal barang bawaan gratis per penumpang?',
